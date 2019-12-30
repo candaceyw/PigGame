@@ -1,4 +1,4 @@
-<h1>JavaScript Pig Dice Game</h1>
+JavaScript Pig Dice Game
 
 /*
 GAME RULES:
@@ -10,3 +10,5 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 */
+
+To test game: https://dice-piggame.netlify.com/
